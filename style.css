@@ -50,6 +50,7 @@ button{
     box-shadow: 5px 6px  white;
     color: white;
     font-size: 25px;
+    cursor: pointer;
 }
 
 button:active{
@@ -72,4 +73,5 @@ footer{
     height: 50px;
     box-shadow: 2px 2px #252525;
     border: 2px solid #252525;
+    cursor: pointer;
 }
